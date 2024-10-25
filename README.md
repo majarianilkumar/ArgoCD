@@ -1,4 +1,4 @@
-# ArgoCD
+# How to Install ArgoCD on Minikube
 
 * Step:1 Install minikube on remote server
 * Step:2 `minikube start`
